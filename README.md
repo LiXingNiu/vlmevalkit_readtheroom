@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 ![LOGO](http://opencompass.openxlab.space/utils/MMLB.jpg)
@@ -234,3 +235,6 @@ If you use VLMEvalKit in your research or wish to refer to published OpenSource 
 [github-license-shield]: https://img.shields.io/github/license/open-compass/VLMEvalKit?color=white&labelColor=black&style=flat-square
 [github-stars-link]: https://github.com/open-compass/VLMEvalKit/stargazers
 [github-stars-shield]: https://img.shields.io/github/stars/open-compass/VLMEvalKit?color=ffcb47&labelColor=black&style=flat-square
+=======
+Official Repo
+>>>>>>> 217b805775af9c8bec89290f7d75291d64785ba3
